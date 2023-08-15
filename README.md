@@ -19,9 +19,16 @@ Items              | Specific Items
 
 
 
-Items              | Specific Items 
+Category Screen              | Item Screen 
 :-------------------------:|:-------------------------:
 ![fee3f790-0a08-4364-9769-9f965200b70c](https://github.com/divyansh1511/RationWala/assets/75711789/fefbd6bf-49b2-4813-acfc-f4e6a170ac4f) | ![0bc72d57-00e0-4a9f-b18d-4a23e63af5dc](https://github.com/divyansh1511/RationWala/assets/75711789/ac021d7c-b180-4c07-97ff-178c0fd24575)
+
+
+
+
+Cart Screen              | Order Screen 
+:-------------------------:|:-------------------------:
+![112511ac-c3d0-4a86-9708-38106d2f4dfe](https://github.com/divyansh1511/RationWala/assets/75711789/5733f651-679e-4cd7-a41f-0c97f6c7af74) | ![845d44b7-3e3c-4d3d-aa81-f01508bfcb36](https://github.com/divyansh1511/RationWala/assets/75711789/a54d422d-fe81-4b25-808b-dcfc764d54a0)
 
 
 ## Getting Started
