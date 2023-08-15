@@ -1,0 +1,198 @@
+{
+  "categories": [
+    {
+      "name": "Milk",
+      "subcategory": [
+        "Cow Milk",
+        "Buffalo Milk",
+        "Flavoured Milk"
+      ]
+    },
+    {
+      "name": "Vegetables",
+      "subcategory": [
+        "Fresh Vegetables",
+        "Off Season"
+      ]
+    },
+    {
+      "name": "Fruits",
+      "subcategory": [
+        "Fresh Fruits",
+        "Other Season"
+      ]
+    },
+    {
+      "name": "Beverages",
+      "subcategory": [
+        "Drinks",
+        "Ice Creams",
+        "Fruit Juices"
+      ]
+    },
+    {
+      "name": "Snacks",
+      "subcategory": [
+        "Chips",
+        "Toffees",
+        "Chocolates",
+        "Biscuits",
+        "Noodles, Vermicali, Pasta",
+        "Breakfast Cereals",
+        "Namkeens",
+        "Spreads, Sauces & Ketchup",
+        "Pickles & Chutney"
+      ]
+    },
+    {
+      "name": "Pooja Needs",
+      "subcategory": [
+        "Flowers",
+        "Utensils",
+        "Agarbatti",
+        "Oils"
+      ]
+    },
+    {
+      "name": "Beauty & Hygiene",
+      "subcategory": [
+        "Bath & Hand wash",
+        "Hair Care",
+        "Health & Medicine",
+        "Mens Grooving",
+        "Skin Care",
+        "Makeup",
+        "Fragrance & Deos"
+      ]
+    },
+    {
+      "name": "Cleaning & Households",
+      "subcategory": [
+        "Purpose Cleaners",
+        "Disposables",
+        "Mobs, Brush, Scrub",
+        "Detergents & Dishwash",
+        "Pooja Need",
+        "Stationary"
+      ]
+    },
+    {
+      "name": "Ayurveda",
+      "subcategory": [
+        "Medicines",
+        "Creams",
+        "Pooja needs"
+      ]
+    },
+    {
+      "name": "Stationery",
+      "subcategory": [
+        "Pens",
+        "Pencils",
+        "Notebooks",
+        "Calculator",
+        "Other Stuffs"
+      ]
+    },
+    {
+      "name": "Foodgrains, Oil, Masala",
+      "subcategory": [
+        "Atta, Flour, Sooji",
+        "Rice & Rice Products",
+        "Dals & Pulses",
+        "Organic cereals",
+        "Edibles oil & Ghee",
+        "Salt, Sugar & Jagree",
+        "Masala & Spices",
+        "Dry Fruits"
+      ]
+    },
+    {
+      "name": "Cooking Oils",
+      "subcategory": [
+        "Refined Oil",
+        "Ghee",
+        "Olive Oil",
+        "Other Oils"
+      ]
+    },
+    {
+      "name": "Dals and Pulses",
+      "subcategory": [
+        "Dals",
+        "Other Pulses"
+      ]
+    },
+    {
+      "name": "Salt and Sugar",
+      "subcategory": [
+        "Salts",
+        "Sugars",
+        "Spices"
+      ]
+    },
+    {
+      "name": "Dry Fruits",
+      "subcategory": [
+        "Almonds",
+        "Cashews",
+        "Mukhwas",
+        "Other Dry Fruits"
+      ]
+    },
+    {
+      "name": "Perfumes & Deos",
+      "subcategory": [
+        "Perfumes",
+        "Deos"
+      ]
+    },
+    {
+      "name": "Tea & Coffee",
+      "subcategory": [
+        "Coffee",
+        "Tea"
+      ]
+    },
+    {
+      "name": "Baby Care",
+      "subcategory": [
+        "Diapers & Wipes",
+        "Baby bath & hygiene",
+        "Baby Feed & formula",
+        "Baby accessories",
+        "Feeding & Nursery"
+      ]
+    },
+    {
+      "name": "Eggs, Meat & Fish",
+      "subcategory": [
+        "Eggs",
+        "Meat",
+        "Fish"
+      ]
+    },
+    {
+      "name": "Kitchen, Garden & Pets",
+      "subcategory": [
+        "Kitchen",
+        "Garden",
+        "Pets"
+      ]
+    },
+    {
+      "name": "Bakery Products",
+      "subcategory": [
+        "Breads",
+        "Other Snacks"
+      ]
+    },
+    {
+      "name": "Gourmet & World Food",
+      "subcategory": [
+        "Gourmet",
+        "World Food"
+      ]
+    }
+  ]
+}
