@@ -5,9 +5,11 @@ A new Flutter project.
 ## Mobile View
 
 
+
+
 Splash Screen             |  Home Screen
 :-------------------------:|:-------------------------:
-![c66994e1-1558-43f6-acc3-3643c673feca](https://github.com/divyansh1511/RationWala/assets/75711789/1c217ff0-5569-424a-a231-1f4983fe46fb) | ![9586f22e-54a4-4191-b74c-4322e1c69d97](https://github.com/divyansh1511/RationWala/assets/75711789/c25df729-982d-4332-80bb-38671907b2f8)
+![c66994e1-1558-43f6-acc3-3643c673feca](https://github.com/divyansh1511/RationWala/assets/75711789/48808dc1-8dda-4479-a555-088d233e9c84) | ![9586f22e-54a4-4191-b74c-4322e1c69d97](https://github.com/divyansh1511/RationWala/assets/75711789/c25df729-982d-4332-80bb-38671907b2f8)
 
 
 
